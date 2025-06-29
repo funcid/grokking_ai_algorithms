@@ -1,6 +1,6 @@
 # Читаю "Грокаем Алгоритмы ИИ"
 
-1. <a href="./genetic_algorithm/src/main/kotlin/GeneticAlgorithm.ipynb">Эволюционный алгоритм</a>
+стр. 114-149: <a href="./genetic_algorithm/src/main/kotlin/GeneticAlgorithm.ipynb">Эволюционный алгоритм</a>
 ```
 В данной задаче реализуется генетический алгоритм для решения классической 
 задачи о рюкзаке. Цель — найти такую комбинацию предметов, чтобы их 
