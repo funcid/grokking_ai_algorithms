@@ -6,3 +6,4 @@ rootProject.name = "grokking_ai_algorithms"
 include("genetic_algorithm")
 include("ant_algorithm")
 include("swarm_algorithm")
+include("machine_learning")
