@@ -1,6 +1,9 @@
 # Читаю "Грокаем Алгоритмы ИИ"
 
-стр. 114-149: <a href="./genetic_algorithm/src/main/kotlin/GeneticAlgorithm.ipynb">Эволюционный алгоритм</a>
+<details>
+  <summary>стр. 114-149: <a href="./genetic_algorithm/src/main/kotlin/GeneticAlgorithm.ipynb">Эволюционный алгоритм</a>
+</summary>
+
 ```
 В данной задаче реализуется генетический алгоритм для решения классической 
 задачи о рюкзаке. Цель — найти такую комбинацию предметов, чтобы их 
@@ -20,7 +23,13 @@
 если ее выставить менее 80% - все будет плохо, кроссовер - крутая тема.
 ```
 
-стр. 171-204: <a href="./ant_algorithm/src/main/kotlin/AntAlgorithm.ipynb">Роевой интеллект: муравьи</a>
+</details>
+
+<details>
+  <summary>стр. 171-204: <a href="./ant_algorithm/src/main/kotlin/AntAlgorithm.ipynb">Роевой интеллект:
+муравьи</a>
+    </summary>
+
 ```
 В этой части я реализую муравьиный алгоритм — метод оптимизации, вдохновлённый 
 поведением реальных муравьёв при поиске кратчайшего пути к источнику пищи. 
@@ -45,7 +54,13 @@
 генетический алгоритм + муравьиный алгоритм 
 ```
 
-стр. 206-237: <a href="./swarm_algorithm/src/main/kotlin/SwarmAlgorithm.ipynb">Роевой интеллект: частицы</a>
+</details>
+
+<details>
+  <summary>стр. 206-237: <a href="./swarm_algorithm/src/main/kotlin/SwarmAlgorithm.ipynb">Роевой интеллект:
+частицы</a>
+  </summary>
+
 ```
 Реализую алгоритм роя частиц (Particle Swarm Optimization, PSO) — 
 метод оптимизации, вдохновлённый коллективным поведением стай птиц и косяков рыб. 
@@ -62,12 +77,23 @@
 выгодной точке. Я также визуализировал траектории движения частиц, чтобы 
 отследить, насколько сильно на них влияют собственные открытия и находки других.
 
-Интересное: PSO оказался удивительно устойчивым к локальным минимумам. 
+Интересное: PSO оказался удивительно устойчивым к локальным минимумам.
+
 ```
 
-стр. 241-291: <a href="./machine_learning/src/main/kotlin/MachineLearning.ipynb">Машинное обучение</a>
+</details>
+
+<details>
+  <summary>стр. 241-291: <a href="./machine_learning/src/main/kotlin/MachineLearning.ipynb">Машинное
+обучение</a>
+  </summary>
+
 ```
+
 ...
 
 Интересное: ...
+
 ```
+
+</details>
