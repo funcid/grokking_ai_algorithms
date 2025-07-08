@@ -44,3 +44,5 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+/artificial_neural_networks/src/main/resources/personal_dataset
